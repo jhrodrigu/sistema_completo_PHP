@@ -7,16 +7,16 @@
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.5 -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="../public/css/font-awesome.css">
     <!-- Theme style -->
-    <link rel="stylesheet" href="css/AdminLTE.min.css">
+    <link rel="stylesheet" href="../public/css/AdminLTE.min.css">
     <!-- AdminLTE Skins. Choose a skin from the css/skins
          folder instead of downloading all of them to reduce the load. -->
-    <link rel="stylesheet" href="css/_all-skins.min.css">
-    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="../public/css/_all-skins.min.css">
+    <link rel="apple-touch-icon" href="../public/img/apple-touch-icon.png">
+    <link rel="shortcut icon" href="../public/img/favicon.ico">
 
   </head>
   <body class="hold-transition skin-blue-light sidebar-mini">
@@ -46,13 +46,13 @@
               <!-- User Account: style can be found in dropdown.less -->
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                  <img src="dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
+                  <img src="../public/dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
                   <span class="hidden-xs">Juan Carlos Arcila</span>
                 </a>
                 <ul class="dropdown-menu">
                   <!-- User image -->
                   <li class="user-header">
-                    <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                    <img src="../public/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
                     <p>
                       www.incanatoit.com - Desarrollando Software
                       <small>www.youtube.com/jcarlosad7</small>
