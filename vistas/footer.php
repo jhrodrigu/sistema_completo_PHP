@@ -10,5 +10,17 @@
     <script src="../public/js/bootstrap.min.js"></script>
     <!-- AdminLTE App -->
     <script src="../public/js/app.min.js"></script>
+
+    <!-- DATATABLES -->
+
+    <script src="../public/datatables/jquery.datatables.min.js"></script>
+    <script src="../public/datatables/datatables.datatables.min.js"></script>
+    <script src="../public/datatables/buttons.html5.min.js"></script>
+    <script src="../public/datatables/buttons.colvis.min.js"></script>
+    <script src="../public/datatables/jszip.datatables.min.js"></script>
+    <script src="../public/datatables/pdfmake.min.js"></script>
+    <script src="../public/datatables/vfs_fonst.js"></script>
+
+
   </body>
 </html>
